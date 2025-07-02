@@ -2,6 +2,7 @@
 
 ![BepInEx Version](https://img.shields.io/badge/BepInEx-5.4.23.3-blue)
 ![Mod Version](https://img.shields.io/badge/version-1.0.0-green)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This mod extends gameplay in CloverPit Demo by providing configurable deadlines and an infinite mode option.
 
