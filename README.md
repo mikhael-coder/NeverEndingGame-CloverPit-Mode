@@ -73,7 +73,7 @@ InfiniteMode = false
 ## Building from Source
 1. Clone repository:
 ```bash
-git clone https://github.com/YourUsername/NeverEndingGame-CloverPit-Mode.git
+git clone https://github.com/mikhael-coder/NeverEndingGame-CloverPit-Mode.git
 ```
 2. Open `NeverEndingGame.sln` in Visual Studio 2022
 3. Set build configuration to **Release**
