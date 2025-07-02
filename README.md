@@ -45,7 +45,7 @@ This mod extends gameplay in CloverPit Demo by providing configurable deadlines 
 ...\Program Files (x86)\Steam\steamapps\common\CloverPit Demo\BepInEx\config\com.mikhaelo.cloverpitneverendinggame.cfg
 ```
 
-4. Adjust values using any text editor:
+3. Adjust values using any text editor:
 ```ini
 ## Settings file was created by plugin CloverPit Never Ending Game v1.0.0
 ## Plugin GUID: com.mikhaelo.cloverpitneverendinggame
