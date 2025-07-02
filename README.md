@@ -6,7 +6,7 @@
 This mod extends gameplay in CloverPit Demo by providing configurable deadlines and an infinite mode option.
 
 ## Features
-- Customizable maximum deadlines (0-999999999)
+- Customizable maximum deadlines (0-999999)
 - Infinite mode toggle
 - Live configuration via config file
 - Harmony-based patching for seamless integration
@@ -54,7 +54,7 @@ This mod extends gameplay in CloverPit Demo by providing configurable deadlines 
 
 ## Maximum number of deadlines
 # Setting type: Int32
-# Acceptable values: 0 to 999999999
+# Acceptable values: 0 to 999999
 MaxDeadlines = 5
 
 ## Endless game mode
