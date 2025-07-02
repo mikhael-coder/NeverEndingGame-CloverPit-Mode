@@ -28,7 +28,7 @@ public class Plugin : BaseUnityPlugin
             5,
             new ConfigDescription(
                 "Maximum number of deadlines",
-                new AcceptableValueRange<int>(0, 9999999999)));
+                new AcceptableValueRange<int>(0, 9999999)));
 
         InfiniteMode = Config.Bind("General",
             "InfiniteMode",
