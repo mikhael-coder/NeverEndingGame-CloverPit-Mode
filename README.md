@@ -1,5 +1,6 @@
 # Never Ending Game Mod for CloverPit
 
+![.NET Version](https://img.shields.io/badge/.NET%20Framework-4.7.2-blue)
 ![BepInEx Version](https://img.shields.io/badge/BepInEx-5.4.23.3-blue)
 ![Mod Version](https://img.shields.io/badge/version-1.0.0-green)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
