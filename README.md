@@ -104,4 +104,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 > **Note:** This mod is not affiliated with CloverPit developers. Use at your own risk.
-```
