@@ -27,13 +27,13 @@ public class Plugin : BaseUnityPlugin
             "MaxDeadlines",
             5,
             new ConfigDescription(
-                "Максимальное количество дедлайнов (0 = бесконечно)",
-                new AcceptableValueRange<int>(0, 100)));
+                "Maximum number of deadlines",
+                new AcceptableValueRange<int>(0, 9999999999)));
 
         InfiniteMode = Config.Bind("General",
             "InfiniteMode",
             false,
-            "Бесконечный режим игры");
+            "Endless game mode");
 
         var harmony = new Harmony(PLUGIN_GUID);
         harmony.PatchAll();
