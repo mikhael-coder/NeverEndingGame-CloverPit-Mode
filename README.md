@@ -106,9 +106,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 > **Note:** This mod is not affiliated with CloverPit developers. Use at your own risk.
-
----
-<img src="image.png" alt="Meme" width="600" height="500">
-
----
-https://github.com/user-attachments/assets/9aab17d8-3c21-4df9-b65c-946efc666e5c
